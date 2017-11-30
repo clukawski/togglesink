@@ -1,5 +1,7 @@
 # togglesink
 
+[![License](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 This is a relatively simple ruby script I wrote for myself to switch
 between regular audio sink and a bluetooth audio sink in pulesaudio.
 
